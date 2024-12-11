@@ -29,6 +29,6 @@ Do whatever you want with this code. It's free and open source. No restrictions.
 
 ## Demo Photos
 
- ![](images\img.png)
- ![](images\img_1.png)
- ![](images\img_2.png)
+ ![](https://raw.githubusercontent.com/didoub74-off/tournamentManager/refs/tags/1.0.0/images/img.png)
+ ![](https://raw.githubusercontent.com/didoub74-off/tournamentManager/refs/tags/1.0.0/images/img_1.png)
+ ![](https://raw.githubusercontent.com/didoub74-off/tournamentManager/refs/tags/1.0.0/images/img_2.png)
